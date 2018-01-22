@@ -12,5 +12,5 @@ function multiply(a,b) {
 }
 
 function divide(a,b) {
-   parseInt(a)/parseInt(b)
+a/b
 }
