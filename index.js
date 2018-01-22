@@ -1,18 +1,18 @@
 function add(a,b) {
-  a+b
+  parseInt(a)+parseInt(b)
 }
 
 
-function subtract() {
-  
-  
-}
-
-function multiply() {
-  
+function subtract(a,b) {
+   parseInt(a)-parseInt(b)
   
 }
 
-function divide() {
+function multiply(a,b) {
+   parseInt(a)*parseInt(b)
   
+}
+
+function divide(a,b) {
+   parseInt(a)/parseInt(b)
 }
