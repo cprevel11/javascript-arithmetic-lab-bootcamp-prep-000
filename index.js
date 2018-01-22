@@ -8,8 +8,7 @@ a-b;
 }
 
 function multiply(a,b) {
-   parseInt(a)*parseInt(b)
-  
+ a*b;
 }
 
 function divide(a,b) {
