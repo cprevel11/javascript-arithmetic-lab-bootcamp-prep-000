@@ -1,5 +1,5 @@
 function add(a,b) {
-  parseInt(a)+parseInt(b)
+  a+b
 }
 
 
