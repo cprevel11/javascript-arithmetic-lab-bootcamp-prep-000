@@ -24,3 +24,13 @@ function dec(n) {
   n--
   return n
 }
+
+function makeInt(n) {
+  
+}
+
+
+Function makeInt(n)
+
+
+
