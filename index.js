@@ -30,7 +30,4 @@ function makeInt(n) {
 }
 
 
-Function makeInt(n)
-
-
 
