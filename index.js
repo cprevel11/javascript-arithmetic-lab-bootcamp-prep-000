@@ -4,8 +4,7 @@ function add(a,b) {
 
 
 function subtract(a,b) {
-   parseInt(a)-parseInt(b)
-  
+a-b;
 }
 
 function multiply(a,b) {
